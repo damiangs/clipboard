@@ -1,31 +1,26 @@
-# Simple Tailwind CSS Starter
+# Clipboard
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is a simple landing page project I built as part of the Brad Traversy Tailwind CSS course.
 
-## Usage
+## Features
 
-Install dependencies
+- Responsive design that works on desktop and mobile devices
+- Interaction with hovers and buttons
+- Alternating content sections with images and text
+- Custom color scheme and fonts
 
-```
-npm install
-```
+## Technologies Used
 
-Run Tailwind CLI in watch mode
+- HTML
+- Tailwind CSS
 
-```
-npm run dev
-```
+## What I learned
 
-You can use tailwind classes in any .html files in the root directory
+Thisproject helped me reinforce my understand of:
 
-Put any custom CSS that you may have in the **src/input.css** file
+- Working with Tailwind CSS classes and custom classes
+- Responsive design and custom screen breakpoints
 
-Add any config values to the **tailwind.config.js** file
+## Acknowledgements
 
-To build once, run
-
-```
-npm run build
-```
-
-You only need to deploy your html files and css/style.css
+This project was created as part of Brad Traversy Tailwind CSS course on Udemy.
